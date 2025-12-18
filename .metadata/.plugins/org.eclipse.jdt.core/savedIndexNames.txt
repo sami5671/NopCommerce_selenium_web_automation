@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+E:\SQA_ISTQB_Internship_2025\nopcommerce_selenium_web_automation\.metadata\.plugins\org.eclipse.jdt.core
+818372040.index
+786911404.index
+1865797976.index
+2644215120.index
+1511612886.index
+4084302552.index
+504546111.index
